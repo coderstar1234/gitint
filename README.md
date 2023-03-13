@@ -1,4 +1,4 @@
-<h1 align="center">chatbot </h1>
+<h1 align="center">CHATBOT </h1>
 
  - This is a simple chatbot program written in Python. The program uses natural language processing techniques to generate responses to user input.
 <hr>
