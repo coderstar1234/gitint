@@ -19,5 +19,3 @@ Contributions are welcome! Please create a pull request with your changes.
 <h1 align="center">License</h1>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<h1 align="center">Acknowledgments</h1>
-Thanks to OpenAI for providing the GPT-3 model used in this project..
