@@ -1,5 +1,6 @@
-<h1 align="center"> gitint</h1>
- - This is a simple chatbot program written in Python. The program uses natural language processing techniques to generate responses to user input.
+<h1 align="center">chatbot </h1>
+
+ This is a simple chatbot program written in Python. The program uses natural language processing techniques to generate responses to user input.
 
 <h1 align="center">Installation</h1>
 - Clone the repository: git clone https://github.com/your-username/chatbot.git<br>
